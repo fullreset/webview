@@ -1,3 +1,5 @@
+This repository is a tepomporary "bookmark"; it will be deleted eventually once the issues that concern me are corrected.
+
 # webview
 
 [![Build Status](https://travis-ci.org/zserge/webview.svg?branch=master)](https://travis-ci.org/zserge/webview)
