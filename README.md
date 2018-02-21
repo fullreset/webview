@@ -1,4 +1,4 @@
-This repository is a tepomporary "bookmark"; it will be deleted eventually once the issues that concern me are corrected.
+This repository is a tepomporary "bookmark"; it will be deleted [eventually] once the issues that concern me are corrected.
 
 # webview
 
