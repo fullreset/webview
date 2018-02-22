@@ -2,6 +2,12 @@
 
 This repository is a tepomporary "bookmark"; it will be deleted [eventually] once the issues that concern me are corrected.
 
+Rust bindings:
+
+* https://github.com/alanhoff/rust-webview
+* https://github.com/Boscop/web-view
+* https://github.com/quadrupleslap/tether
+
 The original README text follows ...
 
 # webview
@@ -10,7 +16,6 @@ The original README text follows ...
 [![Build status](https://ci.appveyor.com/api/projects/status/ksii33qx18d94h6v?svg=true)](https://ci.appveyor.com/project/zserge/webview)
 [![GoDoc](https://godoc.org/github.com/zserge/webview?status.svg)](https://godoc.org/github.com/zserge/webview)
 [![Go Report Card](https://goreportcard.com/badge/github.com/zserge/webview)](https://goreportcard.com/report/github.com/zserge/webview)
-
 
 A tiny cross-platform webview library for C/C++/Golang to build modern cross-platform GUI. Also, there are [Rust bindings](https://github.com/Boscop/webview-rs) and [Nim bindings](https://github.com/oskca/webview) available.
 
