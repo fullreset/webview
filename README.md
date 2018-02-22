@@ -1,4 +1,8 @@
+# Important Note
+
 This repository is a tepomporary "bookmark"; it will be deleted [eventually] once the issues that concern me are corrected.
+
+The original README text follows ...
 
 # webview
 
